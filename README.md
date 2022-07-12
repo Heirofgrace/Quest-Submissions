@@ -9,3 +9,8 @@
 # Chapter 2, Day 1 Quests
 ![image](https://user-images.githubusercontent.com/109009222/178394153-96dcfe98-78ac-4110-978a-be6cac336f1b.png)
 ![image](https://user-images.githubusercontent.com/109009222/178392632-8b3c31c8-c75b-4b64-82d6-8f1b01792eaa.png)
+# Chapter 2, Day 2 Quests
+### Q1: We couldn't call changeGreeting in a script because we originally set our greeting to let (constant) and needed to adjust it to be var.
+### Q2: When AuthAccount is in the prepare phase of a transaction, the transaction can access information/data in your account.
+### Q3: In the execute phase, you cannot access data/information in your account. However, you are able to add functions and change the data on the blockchain in execute mode.
+### Q4: 

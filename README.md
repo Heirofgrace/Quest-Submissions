@@ -7,3 +7,4 @@
 ### Q1: Safety/Security, Clarity, Approachability, Developer Experience and Resource Oriented Programming.
 ### Q2: The five pillars are useful because you want a every smart contract to be safe for people to use. Clarity helps us read the code and verify it is safe to use. Approachability is useful because it makes it easier for developers to transition from other programming languages. The Developer Experience is important because you want to avoid frustration when debugging.
 # Chapter 2, Day 1 Quests
+![image](https://user-images.githubusercontent.com/109009222/178392063-9ec2a4a6-3c70-490a-b262-5e6ab332da82.png)
